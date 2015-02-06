@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 -Cam Macdonell - cmacdonell
 -Scott Deans -Deanss3
+=======
+Cam Macdonell - cmacdonell
+David Brookwell-Reuber - brookwellreuber
+>>>>>>> upstream/master
